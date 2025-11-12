@@ -61,4 +61,5 @@ The current state of the project is promising, and further improvements will be 
 - Explore multi-class sentiment classification and more granular sentiment categories.
 
 To Conclude we can say that more infos are available on : https://huggingface.co/ProsusAI/finbert
+Bonus would be to show you guys this : https://bbycroft.net/llm
 
